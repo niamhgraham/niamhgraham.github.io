@@ -4,13 +4,13 @@ main:
   - title: "CV"
     url: /cv/
 
-    title: "Academia"
-    url: /activity/
+  - title: "Academia"
+    url: /academia/
     
-    title: "Remondata"
+  - title: "Remondata"
     url: /remondata/
 
-    title: "Personal"
+  - title: "Personal"
     url: /personal/ 
 
   - title: "Contact"
