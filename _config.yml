@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Niamh Graham"
-  avatar           : "WebsiteProfilePic.png"
-  bio              : "4th year PhD student on the [MACMIGs] (https://www.mac-migs.ac.uk/) CDT based at the University of Edinburgh."
+  avatar           : "WebsiteProfilePic.jpg"
+  bio              : "4th year PhD student on the [MACMIGs](https://www.mac-migs.ac.uk/) CDT based at the University of Edinburgh."
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        : "niamhefgraham"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/niamh-graham-514884159/
+  linkedin         : "niamh-graham-514884159"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
