@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Natural Sciences, University of Leeds, 2019 (including study abroad year at Chinese University of Hong Kong)
+* Ph.D in Mathematical Modelling, Analysis and Computation, Maxwell Institute Graduate School, University of Edinburgh, 2024 (expected)
 
-Work experience
+Industry experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* June 2021-December 2021: Information Analyst (Internship)
+  * Public Health Scotland
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Line Manager: Lynne Jarvis
 
 * Fall 2015: Research Assistant
   * Github University
